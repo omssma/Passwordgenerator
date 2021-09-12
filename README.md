@@ -2,7 +2,7 @@
 
 This application is used to generate random password using all characters such as special characters, numeric characters, and alphabetical characters.
 
-The application works by first prompting the user for password options. Then conditional statements are used to check the length of the password the user prompted is a number between 8 characters and less than 128 characters.
+The application works by first prompting the user for password options. Then conditional statements are used to check the length of the password the user prompted is a number greater than 8 characters and less than 128 characters.
 
 The application also store boolean in regards to the inclusion of all characters and check whether or not the user includes any type of charatcer.
 
